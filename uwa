@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "park": 1,
+    "name": "The Kazinga Channel",
+    "lat": -33.431756,
+    "lng": -70.578719,
+    "price": 8900,
+    "image": "https://www.ugandawildlife.org/media/k2/items/cache/3749aaa8ee129d7e919bddcc7e09cd36_L.jpg",
+    "description": "The Kazinga Channel is an oasis for many of the fascinating species that inhabit the park, and taking a boat tour along it gives visitors the chance to cruise just meters from hundreds of enormous hippos and buffalos while elephants linger on the shoreline.."
+  },
+  {
+    "id": 2,
+    "park": 1,
+    "name": "BIRDING IN LAKE MBURO NATIONAL PARK",
+    "lat": -33.439839,
+    "lng": -70.619334,
+    "price": 15000,
+    "image": "https://www.ugandawildlife.org/media/k2/items/cache/048731097de322302aff7e52151c991d_L.jpg",
+    "description": "Classified as an Important Birding Area (IBA) by Birding International, Queen’s great variety of habitats mean it is home to over 600 species. This is the greatest of any East African national park, and a phenomenal number for such a small area. The park’s confluence of savanna and forest, linking to the expansive forests of the DR Congo allow visitors to spot East as well as Central African species.."
+  },
+  {
+    "id": 3,
+    "park": 1,
+    "name": "Sempaya Hot Springs",
+    "lat": -33.438335,
+    "lng": -70.608295,
+    "price": 9900,
+    "image": "https://www.ugandawildlife.org/images/stories/Newsletters/May/hotspring.png",
+    "description": "Most of the locals know the hot springs as Sempaya which originated from a Kiswahili phrase Sehemu mbaya (the difficult side) owing to the steep challenging rocks and terrain during the construction of the Fort Portal Bundibugyo road along the ridges of the Rwenzori Mountains.
+
+While the scientists have a technical explanation to the origins of the hot springs, the indigenous Bamaga clan neighbouring the tourist attraction in Semuliki National Park have their own story from the folk lore.."
+  },
+  {
+    "id": 4,
+    "park": 1,
+    "name": "Semuliki National park",
+    "lat": -33.422465,
+    "lng": -70.61347,
+    "price": 9950,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/snp/semliki-female-hot-spring.jpg",
+    "description": "Size: 220km² with an altitude of 670-760m above sea level
+
+Semuliki Forest Reserve was created in 1932 and upgraded to national park status in 1993.
+
+It is the only tract of true lowland tropical forest in East Africa, hosting 441 recorded bird species and 53 mammals.
+
+Large areas of this low-lying park may flood during the wet season,a brief reminder of the time when the entire valley lay at the bottom of a lake for seven million years.
+
+Four distinct ethnic groups live near the park – Bwamba farmers live along the base of the Rwenzori while the Bakonjo cultivate the mountain slopes. Batuku cattle keepers inhabit on the open plains and Batwa pygmies, traditionally hunter gathers, live on the edge of the forest.."
+  },
+  {
+    "id": 5,
+    "park": 1,
+    "name": "Sport Fishing in Murchison Falls",
+    "lat": -33.454693,
+    "lng": -70.593171,
+    "price": 22000,
+    "image": "https://www.ugandawildlife.org/media/k2/items/cache/62fb5f1024529266c6e71c0c0c9ddb3c_L.jpg",
+    "description": "Sport fishing in Murchison falls National Park is quite rewarding for the avid angler. There are great opportunities to land a large Nile Perch "mputa" or Cat-fish "semutundu". Other fish include Tiger fish, Electric cat-fish, Tilapia, "Ngara" (Genus Alestes).."
+  },
+  {
+    "id": 6,
+    "park": 2,
+    "name": "Murchision Falls National Park",
+    "lat": -33.441242,
+    "lng": -70.62753,
+    "price": 16000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/mfnp/falls-mfnp-7063.jpg",
+    "description": "Size: 3,840km2
+
+Murchison Falls became one of Uganda’s first national parks in 1952
+
+At Murchison Falls, the Nile squeezes through an 8m wide gorge and plunges with a thunderous roar into the "Devil's Cauldron", creating a trademark rainbow
+
+The northern section of the park contains savanna and borassus palms, acacia trees and riverine woodland. The south is dominated by woodland and forest patches
+
+The 1951 film "The African Queen" starring Humphrey Bogart was filmed on Lake Albert and the Nile in Murchison Falls National Park
+
+."
+  },
+  {
+    "id": 7,
+    "park": 2,
+    "name": "Rwenzori Mountains National Park",
+    "lat": -33.446933,
+    "lng": -70.662598,
+    "price": 17000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/RMNP/120610_085602MPM_3369-ep.jpg",
+    "description": "Size: 996km2
+The park was gazetted in 1991 and was recognized as a World Heritage site in 1994 and Ramsar site in 2008.
+Highest point: 5,109m above sea level on Mt Stanley's Margherita Peak. Mt. Stanley is bisected by the border with the DR Congo.
+The Rwenzori is not volcanic like East Africa’s other major mountains but is a block of rock upfaulted through the floor of the Western Rift Valley.
+The Rwenzoris were christened the "Mountains of the Moon" by the Alexandrine geographer Ptolemy in AD 150.
+The explorer Henry Stanley placed the Rwenzori on the map on 24th May 1888. He labeled it ‘Ruwenzori’, a local name which he recorded as meaning “Rain-Maker” or “Cloud-King.”
+The oldest recorded person to reach Margherita Peak was Ms Beryl Park aged 78 in 2010.."
+  },
+  {
+    "id": 8,
+    "park": 2,
+    "name": "Caves in Queen Elizabeth",
+    "lat": -33.454345,
+    "lng": -70.579468,
+    "price": 15000,
+    "image": "https://www.ugandawildlife.org/media/k2/items/cache/5483e331a9bace540b3a2478fc014e25_L.jpg",
+    "description": "Tucked beneath the shady canopy of the Maramagambo Forest is the “Bat Cave”. The cave has a viewing room from which visitors can observe the resident bats and pythons. For a more cultural cave experience, how about a trip to the historic cave at Nyanz’ibiri community?."
+  },
+  {
+    "id": 9,
+    "park": 2,
+    "name": "Kidepo National Park",
+    "lat": -33.431105,
+    "lng": -70.61843,
+    "price": 11000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/kvnp/130808_181459130808_181459_MPM_7403-001.jpg",
+    "Size: 1,442km2
+
+The park’s altitude ranges between 914m and 2,750m above sea level.
+
+The park contains two rivers – Kidepo and Narus – which disappear in the dry season, leaving just pools for the wildlife.
+
+The local communities around the park include pastoral Karamojong people, similar to the Maasai of Kenya, and the IK, a hunter-gatherer tribe whose survival is threatened.."
+  },
+  {
+    "id": 10,
+    "park": 2,
+    "name": "Mgahinga Gorilla National park",
+    "lat": -33.408642,
+    "lng": -70.550129,
+    "price": 20000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/mgnp/130516_104505_MPM_3044.jpg",
+    "description": "Size: 33.7km2, making it Uganda’s smallest National Park.
+
+The park takes its name from "Gahinga" - the local word for the piles of volcanic stones cleared from farmland at the foot of the volcanoes.
+
+The British administration declared the area a game sanctuary in 1930; it was gazetted as a National Park in 1991.
+
+Mgahinga has one habituated trans-boundary gorilla group.
+
+The Batwa were self-sufficient – and visitors can see how during a fascinating tour with a Batwa guide to learn the secrets of the forest.."
+  },
+  {
+    "id": 11,
+    "park": 3,
+    "name": "Kibale National Park",
+    "lat": -33.384855,
+    "lng": -70.553858,
+    "price": 16000,
+    "image": "https://www.ugandawildlife.org/images/stories/parks/KNP/KNPgallery/6720754469_76d0707732.jpg",
+    "description": "CHIMPANZEE IN KIBALE NATIONAL PARK
+Kibale National Park in Uganda is home to over 1500 Chimpanzee. It is the premium chimpanzee tracking location in the whole of Africa."
+  },
+  {
+    "id": 12,
+    "park": 3,
+    "name": "Bwindi Impenetrable National Park",
+    "lat": -33.430148,
+    "lng": -70.6367,
+    "price": 17000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/binp/DSC_0007_optimised_Nshongi.jpg",
+    "Size: 321km2
+
+Altitude: 1,160m - 2,607m above sea level.
+
+Bwindi was gazetted as a National Park in 1991 and declared a UNESCO Natural World Heritage Site in 1994.
+
+The Mubare gorilla group was the first to become available for tourism in Uganda in April 1993. Nine groups are now habituated for tourism, and one for research.
+
+Spread over a series of steep ridges and valleys, Bwindi is the source of five major rivers, which flow into Lake Edward.."
+  },
+  {
+    "id": 13,
+    "park": 3,
+    "name": "Lake Mburo National Park",
+    "lat": -33.432433,
+    "lng": -70.634893,
+    "price": 13000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/lmnp/150702_111355_MPM2300.jpg",
+    "description": "Size: 370km2
+
+Altitude: 1,220m - 1,828m above sea level
+
+Wetland habitats comprise 20% of the park's surface
+
+The parks' precarious past has seen wildlife virtually eliminated several times: firstly in various attempts to rid the region of tsetse flies, then to make way for ranches, and finally as a result of subsistence poaching.
+
+20% of the park's entrance fee is used to fund local community projects such as building clinics and schools.."
+  },
+  {
+    "id": 14,
+    "park": 3,
+    "name": "Mount Elgon National Park",
+    "lat": -33.44276,
+    "lng": -70.656672,
+    "price": 12000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/menp/MENP-Suam-gorge-header.jpg",
+    "Size: 1,121km²
+
+This extinct volcano is one of Uganda's oldest physical features, first erupting around 24 million years ago.
+
+Mt Elgon was once Africa's highest mountain, far exceeding Kilimanjaro’s current 5,895m. Millennia of erosion have reduced its height to 4,321m, relegating it to the 4th highest peak in East Africa and 8th on the continent.
+
+Mt Elgon is home to two tribes, the Bagisu and the Sabiny, with the marginalized Ndorobos forced to dwell deep within the forest of Benet.
+
+The Bagisu, also known as the BaMasaba, consider Mount Elgon to be the embodiment of their founding father Masaba and refer to the mountain by this name.."
+  },
+  {
+    "id": 15,
+    "park": 3,
+    "name": "Queen Elizabeth Game Park",
+    "lat": -33.453633,
+    "lng": -70.664909,
+    "price": 21000,
+    "image": "https://www.ugandawildlife.org/images/homepage/header-images/item-4.jpg",
+    "description": "https://www.ugandawildlife.org/images/header-images/Parks/qenp/header-image-1180x600-0947.jpg."
+  }
+]
