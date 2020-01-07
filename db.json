@@ -20,13 +20,43 @@
     "description": "Classified as an Important Birding Area (IBA) by Birding International, Queen’s great variety of habitats mean it is home to over 600 species."
   },
   {
-    "id": 3,
-    "park": 1,
-    "name": "Sempaya Hot Springs",
-    "lat": -33.438335,
-    "lng": -70.608295,
-    "price": 9900,
-    "image": "https://www.ugandawildlife.org/images/stories/Newsletters/May/hotspring.png",
-    "description": "Most of the locals know the hot springs as Sempaya which originated from a Kiswahili phrase Sehemu mbaya (the difficult side) owing to the steep challenging rocks and terrain during the construction of the Fort Portal Bundibugyo road along the ridges of the Rwenzori Mountains."
+    "id": 10,
+    "park": 2,
+    "name": "Mgahinga Gorilla National park",
+    "lat": -33.408642,
+    "lng": -70.550129,
+    "price": 20000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/mgnp/130516_104505_MPM_3044.jpg",
+    "description": "Size: 33.7km2, making it Uganda’s smallest National Park."
+  },
+  {
+    "id": 13,
+    "park": 3,
+    "name": "Lake Mburo National Park",
+    "lat": -33.432433,
+    "lng": -70.634893,
+    "price": 13000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/lmnp/150702_111355_MPM2300.jpg",
+    "description": "Size: 370km2 Altitude: 1,220m - 1,828m above sea level Wetland habitats comprise 20% of the park's surface."
+  },
+  {
+    "id": 14,
+    "park": 3,
+    "name": "Mount Elgon National Park",
+    "lat": -33.44276,
+    "lng": -70.656672,
+    "price": 12000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/menp/MENP-Suam-gorge-header.jpg",
+    "description":"Size: 1,121km² This extinct volcano is one of Uganda's oldest physical features, first erupting around 24 million years ago.The Bagisu, also known as the BaMasaba, consider Mount Elgon to be the embodiment of their founding father Masaaba and refer to the mountain by this name."
+  },
+  {
+    "id": 15,
+    "park": 3,
+    "name": "Queen Elizabeth Game Park",
+    "lat": -33.453633,
+    "lng": -70.664909,
+    "price": 21000,
+    "image": "https://www.ugandawildlife.org/images/homepage/header-images/item-4.jpg",
+    "description": "https://www.ugandawildlife.org/images/header-images/Parks/qenp/header-image-1180x600-0947.jpg."
   }
-  ]
+]
