@@ -69,6 +69,15 @@
     "price": 11000,
     "image": "https://www.ugandawildlife.org/images/header-images/Parks/kvnp/130808_181459130808_181459_MPM_7403-001.jpg",
     "description":"Size: 1,442km2 The park’s altitude ranges between 914m and 2,750m above sea level."
+  },
+  {
+    "id": 6,
+    "park": 2,
+    "name": "Murchision Falls National Park",
+    "lat": -33.441242,
+    "lng": -70.62753,
+    "price": 16000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/mfnp/falls-mfnp-7063.jpg",
+    "description": "Size: 3,840km2. Murchison Falls became one of Uganda’s first national parks in 1952."
   }
-  
 ]
