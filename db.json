@@ -87,7 +87,7 @@
     "lng": -70.61843,
     "price": 11000,
     "image": "https://www.ugandawildlife.org/images/header-images/Parks/kvnp/130808_181459130808_181459_MPM_7403-001.jpg",
-    "Size: 1,442km2 The park’s altitude ranges between 914m and 2,750m above sea level."
+    "description":"Size: 1,442km2 The park’s altitude ranges between 914m and 2,750m above sea level."
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
     "lng": -70.6367,
     "price": 17000,
     "image": "https://www.ugandawildlife.org/images/header-images/Parks/binp/DSC_0007_optimised_Nshongi.jpg",
-    "Size: 321km2 Altitude: 1,160m - 2,607m above sea level. Bwindi was gazetted as a National Park in 1991 and declared a UNESCO Natural World Heritage Site in 1994."
+    "description":"Size: 321km2 Altitude: 1,160m - 2,607m above sea level. Bwindi was gazetted as a National Park in 1991 and declared a UNESCO Natural World Heritage Site in 1994."
   },
   {
     "id": 13,
@@ -137,7 +137,7 @@
     "lng": -70.656672,
     "price": 12000,
     "image": "https://www.ugandawildlife.org/images/header-images/Parks/menp/MENP-Suam-gorge-header.jpg",
-    "Size: 1,121km² This extinct volcano is one of Uganda's oldest physical features, first erupting around 24 million years ago.The Bagisu, also known as the BaMasaba, consider Mount Elgon to be the embodiment of their founding father Masaaba and refer to the mountain by this name."
+    "description":"Size: 1,121km² This extinct volcano is one of Uganda's oldest physical features, first erupting around 24 million years ago.The Bagisu, also known as the BaMasaba, consider Mount Elgon to be the embodiment of their founding father Masaaba and refer to the mountain by this name."
   },
   {
     "id": 15,
