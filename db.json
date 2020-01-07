@@ -89,6 +89,16 @@
     "price": 17000,
     "image": "https://www.ugandawildlife.org/images/header-images/Parks/RMNP/120610_085602MPM_3369-ep.jpg",
     "description": "Size: 996km2."
+  },
+   {
+    "id": 8,
+    "park": 2,
+    "name": "Caves in Queen Elizabeth",
+    "lat": -33.454345,
+    "lng": -70.579468,
+    "price": 15000,
+    "image": "https://www.ugandawildlife.org/media/k2/items/cache/5483e331a9bace540b3a2478fc014e25_L.jpg",
+    "description": "Tucked beneath the shady canopy of the Maramagambo Forest is the “Bat Cave”. The cave has a viewing room from which visitors can observe the resident bats and pythons. For a more cultural cave experience, how about a trip to the historic cave at Nyanz’ibiri community?."
   }
 
 ]
