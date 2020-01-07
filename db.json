@@ -58,5 +58,17 @@
     "price": 21000,
     "image": "https://www.ugandawildlife.org/images/homepage/header-images/item-4.jpg",
     "description": "https://www.ugandawildlife.org/images/header-images/Parks/qenp/header-image-1180x600-0947.jpg."
+  },
+  
+  {
+    "id": 9,
+    "park": 2,
+    "name": "Kidepo National Park",
+    "lat": -33.431105,
+    "lng": -70.61843,
+    "price": 11000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/kvnp/130808_181459130808_181459_MPM_7403-001.jpg",
+    "description":"Size: 1,442km2 The park’s altitude ranges between 914m and 2,750m above sea level."
   }
+  
 ]
