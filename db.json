@@ -20,7 +20,7 @@
     "description": "Classified as an Important Birding Area (IBA) by Birding International, Queen’s great variety of habitats mean it is home to over 600 species."
   },
   {
-    "id": 10,
+    "id": 3,
     "park": 2,
     "name": "Mgahinga Gorilla National park",
     "lat": -33.408642,
@@ -30,7 +30,7 @@
     "description": "Size: 33.7km2, making it Uganda’s smallest National Park."
   },
   {
-    "id": 13,
+    "id": 4,
     "park": 3,
     "name": "Lake Mburo National Park",
     "lat": -33.432433,
@@ -40,7 +40,7 @@
     "description": "Size: 370km2 Altitude: 1,220m - 1,828m above sea level Wetland habitats comprise 20% of the park's surface."
   },
   {
-    "id": 14,
+    "id": 5,
     "park": 3,
     "name": "Mount Elgon National Park",
     "lat": -33.44276,
@@ -50,7 +50,7 @@
     "description":"Size: 1,121km² This extinct volcano is one of Uganda's oldest physical features, first erupting around 24 million years ago.The Bagisu, also known as the BaMasaba, consider Mount Elgon to be the embodiment of their founding father Masaaba and refer to the mountain by this name."
   },
   {
-    "id": 15,
+    "id": 6,
     "park": 3,
     "name": "Queen Elizabeth Game Park",
     "lat": -33.453633,
@@ -61,7 +61,7 @@
   },
   
   {
-    "id": 9,
+    "id": 7,
     "park": 2,
     "name": "Kidepo National Park",
     "lat": -33.431105,
@@ -71,7 +71,7 @@
     "description":"Size: 1,442km2 The park’s altitude ranges between 914m and 2,750m above sea level."
   },
   {
-    "id": 6,
+    "id": 8,
     "park": 2,
     "name": "Murchision Falls National Park",
     "lat": -33.441242,
@@ -81,7 +81,7 @@
     "description": "Size: 3,840km2. Murchison Falls became one of Uganda’s first national parks in 1952."
   },
   {
-    "id": 7,
+    "id": 9,
     "park": 2,
     "name": "Rwenzori Mountains National Park",
     "lat": -33.446933,
@@ -91,7 +91,7 @@
     "description": "Size: 996km2."
   },
    {
-    "id": 8,
+    "id": 10,
     "park": 2,
     "name": "Caves in Queen Elizabeth",
     "lat": -33.454345,
@@ -101,7 +101,7 @@
     "description": "Tucked beneath the shady canopy of the Maramagambo Forest is the “Bat Cave”. The cave has a viewing room from which visitors can observe the resident bats and pythons. For a more cultural cave experience, how about a trip to the historic cave at Nyanz’ibiri community?."
   },
   {
-    "id": 4,
+    "id": 11,
     "park": 1,
     "name": "Semuliki National park",
     "lat": -33.422465,
@@ -111,7 +111,7 @@
     "description": "Size: 220km² with an altitude of 670-760m above sea level. It is the only tract of true lowland tropical forest in East Africa."
   },
   {
-    "id": 5,
+    "id": 12,
     "park": 1,
     "name": "Sport Fishing in Murchison Falls",
     "lat": -33.454693,
