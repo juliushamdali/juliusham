@@ -79,5 +79,16 @@
     "price": 16000,
     "image": "https://www.ugandawildlife.org/images/header-images/Parks/mfnp/falls-mfnp-7063.jpg",
     "description": "Size: 3,840km2. Murchison Falls became one of Uganda’s first national parks in 1952."
+  },
+  {
+    "id": 7,
+    "park": 2,
+    "name": "Rwenzori Mountains National Park",
+    "lat": -33.446933,
+    "lng": -70.662598,
+    "price": 17000,
+    "image": "https://www.ugandawildlife.org/images/header-images/Parks/RMNP/120610_085602MPM_3369-ep.jpg",
+    "description": "Size: 996km2."
   }
+
 ]
